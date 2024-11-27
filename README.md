@@ -5,7 +5,7 @@ This analysis provides actionable insights into the Superstore's performance acr
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Data Sources](https://github.com/Debido1/Bank-Statement/blob/main/Account%20cleaned.xlsx)
+- [Data Sources](https://github.com/Debido1/SUPERSTORE/blob/main/superstore_final_dataset%20.xlsx)
 - [Recommendations](#recommendations)
 
 ### Project Overview
@@ -20,7 +20,7 @@ This data analysis project focuses on analyzing sales data from a fictional Supe
 ### Data Sources
 
 
-Superstore : The primary dataset used for this analysis is the "Account cleaned.xlsx" file, containing detailed information about each transaction made for a specific period of time.
+Superstore : The primary dataset used for this analysis is the "superstore_final_dataset.xlsx" file, containing detailed information about each transaction made for a specific period of time.
 
 ### Tools
 
